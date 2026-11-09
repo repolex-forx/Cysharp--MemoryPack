@@ -1,0 +1,11 @@
+{
+  "org": "Cysharp",
+  "repo": "MemoryPack",
+  "versions": [
+    {
+      "commit": "eed91b29770697319d9635e246e79bff769d97c2",
+      "tag": "",
+      "parsed_at": "2026-11-09T16:54:02.996907+00:00"
+    }
+  ]
+}
