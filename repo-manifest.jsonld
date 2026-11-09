@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Cysharp/MemoryPack/commit/eed91b29770697319d9635e246e79bff769d97c2",
       "git:hexsha": "eed91b29770697319d9635e246e79bff769d97c2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T16:54:02.996116+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Cysharp/MemoryPack/commit/adf72cbf3667b99cb7b4bd10a8770d98eaeaa78a",
